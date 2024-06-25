@@ -20,6 +20,12 @@
 <H3>На пряму:</H3>
 Знаходимо шлях до репозиторію: <br>
 `cd path_to_your_reposetoriy` <br>
+Створюємо віртуальне оточення: <br>
+`python -m venv venv`<br>
+Активовуємо його: 
+`venv/scripts/activate` <br>
+Скачуємо залежності: 
+`pip install -r requirenments `
 Запускаємо проект <br>
 `python views.py`
 
