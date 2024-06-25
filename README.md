@@ -19,16 +19,16 @@
 
 <H3>На пряму:</H3>
 Знаходимо шлях до репозиторію: <br>
-`cd <path to your reposetoriy>` <br>
+`cd path_to_your_reposetoriy` <br>
 Запускаємо проект <br
 `python views.py`
 
 
 <H2>API:</H2>
 Маємо три ендпоінта: <br>
-_http://127.0.0.1:5000/tokenize_ <br>
-_http://127.0.0.1:5000/pos_tag_ <br>
-_http://127.0.0.1:5000/ner_
+http://127.0.0.1:5000/tokenize <br>
+http://127.0.0.1:5000/pos_tag <br>
+http://127.0.0.1:5000/ner
 
 На них можемо відправляти лише **POST** запити та в тілі запиту 
 вказуємо текст який нас цікавить. 
