@@ -8,25 +8,30 @@
 
 <H3>Через Dockerfile:</H3>
 Знаходимо шлях до репозиторію: <br>
+
 `cd path_to_your_reposetoriy` <br><br>
 
 Будуємо втілення (image): <br><br>
-`docker build -t ttask-PH .`
+`docker build -t ttask-ph .`
 
 Запускаємо контейнер: <br>
-`docker run -d -p 5000:5000 ttask-PH`
-
+`docker run -d -p 5000:5000 ttask-ph`
 
 <H3>На пряму:</H3>
 Знаходимо шлях до репозиторію: <br>
+
 `cd path_to_your_reposetoriy` <br>
 Створюємо віртуальне оточення: <br>
+
 `python -m venv venv`<br>
 Активовуємо його: <br>
+
 `venv/scripts/activate` <br>
 Скачуємо залежності: <br>
+
 `pip install -r requirenments ` <br>
 Запускаємо проект <br>
+
 `python views.py`<br>
 
 
