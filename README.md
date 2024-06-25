@@ -22,12 +22,12 @@
 `cd path_to_your_reposetoriy` <br>
 Створюємо віртуальне оточення: <br>
 `python -m venv venv`<br>
-Активовуємо його: 
+Активовуємо його: <br>
 `venv/scripts/activate` <br>
-Скачуємо залежності: 
-`pip install -r requirenments `
+Скачуємо залежності: <br>
+`pip install -r requirenments ` <br>
 Запускаємо проект <br>
-`python views.py`
+`python views.py`<br>
 
 
 <H2>API:</H2>
