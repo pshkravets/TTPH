@@ -19,7 +19,7 @@
 
 <H3>На пряму:</H3>
 Знаходимо шлях до репозиторію: <br>
-`cd path_to_your_reposetoriy` <br>
+`cd path_to_your_reposetoriy` 
 Створюємо віртуальне оточення: <br>
 `python -m venv venv`<br>
 Активовуємо його: <br>
