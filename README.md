@@ -20,8 +20,8 @@
 <H3>На пряму:</H3>
 Знаходимо шлях до репозиторію: <br>
 `cd path_to_your_reposetoriy` <br>
-Запускаємо проект <br
-` python views.py `
+Запускаємо проект <br>
+`python views.py`
 
 
 <H2>API:</H2>
