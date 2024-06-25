@@ -8,8 +8,9 @@
 
 <H3>Через Dockerfile:</H3>
 Знаходимо шлях до репозиторію: <br>
-`cd <path to your reposetoriy>` <br><br>
-Будуємо втілення (image): <br>
+`cd (path_to_your_reposetoriy)` <br><br>
+
+Будуємо втілення (image): <br><br>
 `docker build -t ttask-PH .`
 
 Запускаємо контейнер: <br>
