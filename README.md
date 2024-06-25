@@ -26,7 +26,7 @@
 `python -m venv venv`<br>
 Активовуємо його: <br>
 
-`venv/scripts/activate` <br>
+`venv\Scripts\activate` <br>
 Скачуємо залежності: <br>
 
 `pip install -r requirenments ` <br>
